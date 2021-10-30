@@ -4,7 +4,7 @@ title:  "귀여운 판다"
 description: "푸바오"
 comments: true
 published: true
-typora-copy-images-to: C:\Program Files\Typora\images
+typora-copy-images-to: C:\Users\15z970-ga7hk\Desktop
 ---
 
 판다는 귀여웡
